@@ -32,6 +32,16 @@ Properties:
     }
 ```
 
+## Useage
+
+```
+npm install vue2-marquee
+
+// main.js
+import VueMarquee from 'vue2-marquee'
+Vue.use(VueMarquee)
+```
+
 ## Build Setup
 
 ``` bash
